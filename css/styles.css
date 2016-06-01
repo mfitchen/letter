@@ -1,0 +1,17 @@
+p {
+  font-family: cursive;
+  font-size: 25pt;
+}
+
+#letter {
+  display: none;
+  background-image: url("http://images.clipartpanda.com/notebook-paper-clipart-94cb77MTg.png");
+  background-size: 100%;
+  padding-top: 180px;
+  padding-left: 200px;
+  padding-right: 30px;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
